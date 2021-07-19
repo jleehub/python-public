@@ -1,0 +1,8 @@
+12:47:57-Jul-18-2021,ETL Job Started
+12:47:57-Jul-18-2021,Extract started
+12:47:57-Jul-18-2021,Extract completed
+12:47:57-Jul-18-2021,Transform started
+12:47:57-Jul-18-2021,Transform completed
+12:47:57-Jul-18-2021,Load started
+12:47:57-Jul-18-2021,Load completed
+12:47:57-Jul-18-2021,ETL completed
